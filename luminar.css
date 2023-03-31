@@ -1,0 +1,35 @@
+h1{
+    margin-top: -35%;
+    margin-left: 1%;
+    text-align: left;
+}
+.d-block{
+    height: 500px;
+}
+.but{
+    padding: 2%;
+    font-size: 20px;
+    border-radius: 35%;
+    color: white;
+    background-color: rgb(138, 11, 127);
+    
+}
+.v3{
+    margin-left: -80%;
+}
+.but1{
+    padding: 2%;
+    font-size: 20px;
+    border-radius: 35%;
+    color: white;
+    background-color: rgb(138, 11, 127);
+}
+.cc{
+color: rgb(119, 12, 119);
+}
+.cd{
+    color: rgba(119, 12, 119, 0.26);
+}
+p{
+    text-align: left;
+}
